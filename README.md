@@ -20,7 +20,7 @@
 
 ## ✍碎碎念
 
-之前就发现了ToryDeng的宝藏项目，但在实际上手写的时候遇到了一些问题，由于作者毕业选择写实证方向的论文，而ToryDeng的模板是更加泛化的，因此有些部分无法完美匹配，因此作者基于Tory的模板新增一些小tips，主要针对撰写实证论文的同学，争取帮助同学们不再受到修改格式的困扰。如果是不太熟悉*latex*的同学，建议按照步骤一步一步来，很好上手的💪
+之前就发现了ToryDeng的宝藏项目，但在实际上手写的时候遇到了一些问题，由于作者毕业选择写实证方向的论文，而ToryDeng的模板是更加泛化的，因此有些部分无法完美匹配，因此作者基于Tory的模板新增一些小tips，主要针对撰写实证论文的同学，争取帮助同学们不再受到修改格式的困扰。如果是不太熟悉$\LaTeX$的同学，建议按照步骤一步一步来，很好上手的💪
 
 ## 👍本模板特性
 
@@ -89,7 +89,7 @@
 #### 图表内容
 
 * **图片**：在 `content/chapter2.tex`文件中有图片的使用演示，根据演示创建您自己的图片并在正文中引用它们。图片最好放在 `imgs`文件夹中。
-* **表格**：在 `content/chapter2.tex`文件中有表格的使用演示，根据演示创建您自己的表格并在正文中引用它们。表格创建推荐使用Excel插件Excel2LaTeX([安装和使用教程](https://blog.csdn.net/qq_16763983/article/details/122912373))或者网站[Tables Generator](https://www.tablesgenerator.com/)，可根据表格生成相应的 $\LaTeX$ 代码。这里如果您是使用stata进行的实验可以直接输出*latex*对应格式的表格😸。
+* **表格**：在 `content/chapter2.tex`文件中有表格的使用演示，根据演示创建您自己的表格并在正文中引用它们。表格创建推荐使用Excel插件Excel2LaTeX([安装和使用教程](https://blog.csdn.net/qq_16763983/article/details/122912373))或者网站[Tables Generator](https://www.tablesgenerator.com/)，可根据表格生成相应的 $\LaTeX$ 代码。这里如果您是使用stata进行的实验可以直接输出$\LaTeX$对应格式的表格😸。
 
 #### 公式
 
