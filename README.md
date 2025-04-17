@@ -166,7 +166,7 @@ biber main --output-directory=build_folder
 
 ## 反馈与贡献
 
-由于作者水平、时间、精力都有限，本模板一定还有众多不完善的地方，虽然作者有心修正，奈何分身乏术，所以您有任何问题，都可以在[GitHub讨论区](https://github.com/ToryDeng/ZUEL-Thesis/discussions)里提出，但作者不保证及时回答。也欢迎新的贡献者能参与维护该项目！~~（以便作者划水）~~
+本模板只是做了小小的修改，如果大家还有其他的建议，欢迎修改，最后非常感谢ToryDeng能够发出此模板💗。
 
 ## 软件许可证
 
